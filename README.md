@@ -85,7 +85,7 @@
 
 ## [1:1 메신저]
 ### :round_pushpin: 메신저 목록 조회
-![메신저목록](https://user-images.githubusercontent.com/115603677/231217247-3d331ead-04c9-49c9-8bec-7140620fb23b.gif)
+![메신저목록](https://user-images.githubusercontent.com/115603677/231225072-226f00ae-5d9f-434e-a6e2-89834bb33aa3.gif)
 - 현재 존재하는 메신저 목록 조회(최신순)
 - 실시간으로 메시지가 도착하면 목록 순서 변경
 - 이름 옆에 온라인/오프라인 여부 표시
@@ -93,13 +93,13 @@
 - 목록 클릭 시 해당 메신저방으로 이동
 
 ### :round_pushpin: 1대1 채팅방
-![채팅](https://user-images.githubusercontent.com/115603677/231217325-38efc960-ea09-4be2-abf3-84b8fe2142b0.gif)
+![채팅](https://user-images.githubusercontent.com/115603677/231223947-550edfc8-8f3d-48f0-947c-c229fb54d54f.gif)
 - 상대방이 보낸 메시지는 왼쪽, 본인이 보낸 메시지는 오른쪽에 배치하여 구분
 - 메시지를 보낸 날짜, 시간 확인 가능
 - 웹소켓을 이용하여 실시간으로 채팅 가능
 
 ### :round_pushpin: 메신저 주소록
-![주소록](https://user-images.githubusercontent.com/115603677/231217395-11e7de57-7153-4766-8365-78c4d9a755e4.gif)
+![주소록](https://user-images.githubusercontent.com/115603677/231224025-a4a5dc58-c1a1-473c-bf1d-78f7d9526dc4.gif)
 - 부서명 클릭 시 해당 부서의 인원 목록이 열리면서 인원 확인 가능
 - 이름 클릭 시 해당 사원과의 메신저방 조회
 - 이전의 대화가 있다면 대화 내용을 조회해서 메신저방 띄워줌
